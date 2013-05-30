@@ -18,7 +18,9 @@ The naming format is <name-of-thing>.<type-of-think>.<loader-format>
 
 
 The <name-of-thing> can be the characters [A-Za-z0-9-_]
+
 The <type-of-think> can be the characters [A-Za-z0-9-_]
+
 The <loader-format> can be one of this standards formats :
 
 * json - Javascript format
