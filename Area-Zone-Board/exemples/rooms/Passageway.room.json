@@ -1,0 +1,17 @@
+{
+	"name":"Passageway"
+    ,"subType" : "corridor"
+    ,"unique" : false
+	,"definition" : [
+	 [ ["IO"], ["IO"] ]
+	
+	,[ ["D"], ["D"] ]
+	
+	,[ ["D"],  ["D"]  ]
+	,[ ["D"], ["D"] ]
+    
+    ,[ ["D"],  ["D"]  ]
+	
+	,[ ["IO"],  ["IO"]  ]
+	]
+}
